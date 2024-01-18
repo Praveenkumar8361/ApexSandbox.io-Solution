@@ -1,6 +1,7 @@
 public Map<String, String> phonebook(List<Contact> contacts) {
     //code here
-    for(lstContact contact : contacts){
-
+    Map<String, String> MapPhoneBook = new Map<String, String>();
+    for(contact lstContact : contacts){
+        
     }
 }
